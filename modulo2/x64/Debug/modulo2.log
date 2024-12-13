@@ -1,0 +1,5 @@
+﻿  modulo2.cpp
+C:\Users\mellk\source\repos\modulo2\modulo2\modulo2.cpp(159,62): warning C4267: 'argumento': conversão de 'size_t' para 'GLsizei', possível perda de dados
+  modulo2.vcxproj -> C:\Users\mellk\source\repos\modulo2\x64\Debug\modulo2.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.
